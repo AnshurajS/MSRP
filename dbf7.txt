@@ -1,0 +1,123 @@
+Title: Retrievals on Nircam transmission and emission spectra of 
+       HD 189733b with Platon 6, a GPU code for the JWST era 
+Authors: Zhang M., Paragas K., Bean J.L., Yeung J., Chachan Y., 
+         Greene T.P., Lunine J., Deming D. 
+Figure: Best fit transmission and emission spectra of HD 189733b
+================================================================================
+Byte-by-byte Description of file: datafile7.txt
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 12 A12    ---     Type      Spectrum  type
+  14- 17 F4.2   um      MinWave   Minimum wavelength of the bin 
+  19- 22 F4.2   um      MaxWave   Maximum wavelength of the bin
+  24- 32 E9.3   ---     Depth     Median depth in wavelength bin
+  34- 40 E7.1   ---   LoDepth     Lower uncertainty in Depth
+  42- 48 E7.1   ---   UpDepth     Lower uncertainty in Depth
+--------------------------------------------------------------------------------
+Transmission 2.40 2.45 2.433e-02 3.9e-05 4.2e-05
+Transmission 2.45 2.50 2.435e-02 3.1e-05 3.1e-05
+Transmission 2.50 2.55 2.445e-02 2.9e-05 2.7e-05
+Transmission 2.55 2.60 2.443e-02 2.9e-05 3.0e-05
+Transmission 2.60 2.65 2.447e-02 2.5e-05 2.6e-05
+Transmission 2.65 2.70 2.450e-02 2.4e-05 2.4e-05
+Transmission 2.70 2.75 2.447e-02 2.4e-05 2.5e-05
+Transmission 2.75 2.80 2.443e-02 2.4e-05 2.2e-05
+Transmission 2.80 2.85 2.449e-02 2.4e-05 2.4e-05
+Transmission 2.85 2.90 2.445e-02 2.3e-05 2.3e-05
+Transmission 2.90 2.95 2.445e-02 2.4e-05 2.3e-05
+Transmission 2.95 3.00 2.443e-02 2.2e-05 2.3e-05
+Transmission 3.00 3.05 2.438e-02 2.2e-05 2.2e-05
+Transmission 3.05 3.10 2.431e-02 2.2e-05 2.3e-05
+Transmission 3.10 3.15 2.433e-02 2.2e-05 2.1e-05
+Transmission 3.15 3.20 2.426e-02 2.2e-05 2.1e-05
+Transmission 3.20 3.25 2.425e-02 2.3e-05 2.1e-05
+Transmission 3.25 3.30 2.418e-02 2.1e-05 2.1e-05
+Transmission 3.30 3.35 2.419e-02 2.2e-05 2.1e-05
+Transmission 3.35 3.40 2.418e-02 2.1e-05 2.2e-05
+Transmission 3.40 3.45 2.421e-02 2.6e-05 2.6e-05
+Transmission 3.45 3.50 2.416e-02 2.5e-05 2.4e-05
+Transmission 3.50 3.55 2.416e-02 2.4e-05 2.4e-05
+Transmission 3.55 3.60 2.414e-02 2.3e-05 2.5e-05
+Transmission 3.60 3.65 2.415e-02 2.6e-05 2.5e-05
+Transmission 3.65 3.70 2.416e-02 2.6e-05 2.5e-05
+Transmission 3.70 3.75 2.418e-02 2.5e-05 2.4e-05
+Transmission 3.75 3.80 2.416e-02 2.5e-05 2.3e-05
+Transmission 3.80 3.85 2.412e-02 2.8e-05 2.5e-05
+Transmission 3.85 3.90 2.411e-02 2.6e-05 2.7e-05
+Transmission 3.90 3.95 2.416e-02 2.3e-05 2.2e-05
+Transmission 3.90 3.95 2.420e-02 2.0e-05 2.1e-05
+Transmission 3.95 4.00 2.419e-02 2.1e-05 2.0e-05
+Transmission 4.00 4.05 2.423e-02 2.2e-05 2.0e-05
+Transmission 4.05 4.10 2.426e-02 2.0e-05 2.1e-05
+Transmission 4.10 4.15 2.425e-02 2.2e-05 2.3e-05
+Transmission 4.15 4.20 2.430e-02 2.1e-05 2.1e-05
+Transmission 4.20 4.25 2.439e-02 2.3e-05 2.4e-05
+Transmission 4.25 4.30 2.452e-02 2.5e-05 2.3e-05
+Transmission 4.30 4.35 2.456e-02 2.7e-05 2.4e-05
+Transmission 4.35 4.40 2.455e-02 2.7e-05 2.6e-05
+Transmission 4.40 4.45 2.455e-02 3.2e-05 2.8e-05
+Transmission 4.45 4.50 2.449e-02 2.8e-05 3.1e-05
+Transmission 4.50 4.55 2.446e-02 3.5e-05 3.3e-05
+Transmission 4.55 4.60 2.440e-02 3.2e-05 3.2e-05
+Transmission 4.60 4.65 2.443e-02 3.0e-05 3.2e-05
+Transmission 4.65 4.70 2.442e-02 3.4e-05 3.3e-05
+Transmission 4.70 4.75 2.440e-02 3.4e-05 3.3e-05
+Transmission 4.75 4.80 2.436e-02 3.5e-05 3.5e-05
+Transmission 4.80 4.85 2.441e-02 3.2e-05 3.6e-05
+Transmission 4.85 4.90 2.436e-02 4.0e-05 4.1e-05
+Transmission 4.90 4.95 2.437e-02 4.3e-05 4.0e-05
+Transmission 4.95 5.00 2.434e-02 5.3e-05 4.8e-05
+Emission     2.40 2.45 4.745e-04 4.6e-05 4.2e-05
+Emission     2.45 2.50 4.256e-04 3.4e-05 3.8e-05
+Emission     2.50 2.55 4.266e-04 3.2e-05 3.5e-05
+Emission     2.55 2.60 4.261e-04 2.9e-05 3.3e-05
+Emission     2.60 2.65 4.826e-04 3.1e-05 3.2e-05
+Emission     2.65 2.70 5.058e-04 2.9e-05 2.8e-05
+Emission     2.70 2.75 4.844e-04 3.2e-05 3.0e-05
+Emission     2.75 2.80 5.314e-04 2.9e-05 2.8e-05
+Emission     2.80 2.85 5.392e-04 2.9e-05 2.8e-05
+Emission     2.85 2.90 6.084e-04 2.9e-05 2.8e-05
+Emission     2.90 2.95 6.404e-04 2.8e-05 2.8e-05
+Emission     2.95 3.00 6.578e-04 2.8e-05 2.7e-05
+Emission     3.00 3.05 7.200e-04 2.7e-05 2.8e-05
+Emission     3.05 3.10 7.409e-04 2.5e-05 2.6e-05
+Emission     3.10 3.15 8.499e-04 2.4e-05 2.4e-05
+Emission     3.15 3.20 9.079e-04 2.5e-05 2.7e-05
+Emission     3.20 3.25 9.343e-04 2.3e-05 2.4e-05
+Emission     3.25 3.30 1.045e-03 2.6e-05 2.4e-05
+Emission     3.30 3.35 1.108e-03 2.4e-05 2.5e-05
+Emission     3.35 3.40 1.159e-03 2.4e-05 2.4e-05
+Emission     3.40 3.45 1.213e-03 2.7e-05 2.6e-05
+Emission     3.45 3.50 1.291e-03 2.9e-05 2.9e-05
+Emission     3.50 3.55 1.333e-03 2.9e-05 2.7e-05
+Emission     3.55 3.60 1.386e-03 2.8e-05 2.5e-05
+Emission     3.60 3.65 1.413e-03 2.9e-05 3.0e-05
+Emission     3.65 3.70 1.480e-03 3.2e-05 3.2e-05
+Emission     3.70 3.75 1.554e-03 2.6e-05 2.7e-05
+Emission     3.75 3.80 1.633e-03 2.9e-05 2.8e-05
+Emission     3.80 3.85 1.668e-03 2.6e-05 2.9e-05
+Emission     3.85 3.90 1.784e-03 2.7e-05 2.8e-05
+Emission     3.90 3.95 1.769e-03 2.4e-05 2.8e-05
+Emission     3.90 3.95 1.845e-03 2.3e-05 2.3e-05
+Emission     3.95 4.00 1.893e-03 2.1e-05 2.1e-05
+Emission     4.00 4.05 1.873e-03 2.0e-05 2.3e-05
+Emission     4.05 4.10 1.877e-03 2.1e-05 2.1e-05
+Emission     4.10 4.15 1.868e-03 2.3e-05 2.2e-05
+Emission     4.15 4.20 1.844e-03 2.3e-05 2.3e-05
+Emission     4.20 4.25 1.629e-03 2.5e-05 2.6e-05
+Emission     4.25 4.30 1.500e-03 2.2e-05 2.3e-05
+Emission     4.30 4.35 1.431e-03 2.8e-05 2.9e-05
+Emission     4.35 4.40 1.559e-03 3.1e-05 3.0e-05
+Emission     4.40 4.45 1.615e-03 3.0e-05 2.9e-05
+Emission     4.45 4.50 1.687e-03 2.9e-05 2.9e-05
+Emission     4.50 4.55 1.702e-03 3.1e-05 3.2e-05
+Emission     4.55 4.60 1.841e-03 3.2e-05 3.2e-05
+Emission     4.60 4.65 1.908e-03 3.2e-05 3.3e-05
+Emission     4.65 4.70 2.003e-03 3.3e-05 3.6e-05
+Emission     4.70 4.75 2.056e-03 3.7e-05 4.3e-05
+Emission     4.75 4.80 2.058e-03 3.5e-05 4.3e-05
+Emission     4.80 4.85 2.036e-03 3.9e-05 3.8e-05
+Emission     4.85 4.90 2.013e-03 3.6e-05 3.8e-05
+Emission     4.90 4.95 2.161e-03 4.1e-05 4.8e-05
+Emission     4.95 5.00 2.195e-03 4.6e-05 5.1e-05
